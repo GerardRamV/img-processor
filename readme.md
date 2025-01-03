@@ -33,7 +33,7 @@ Sigue los pasos a continuación para instalar y ejecutar este proyecto en tu má
 Primero, clona el repositorio en tu máquina local utilizando Git:
 
 ```bash
-git clone https://github.com/GerardRamV/img-processor.git
+git clone https://github.com/GerardRamV/img-processor
 ```
 
 ### 2. Navega al directorio del proyecto
@@ -132,3 +132,5 @@ Las contribuciones son bienvenidas
 ## Licencia
 
 Este proyecto está bajo la licencia **MIT**.
+
+![screenshot](screenshot.png)
