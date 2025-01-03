@@ -1,0 +1,9 @@
+{
+    "require": {
+        "tinify/tinify": "^1.6",
+        "google/cloud-storage": "^1.39",
+        "google/cloud-vision": "^1.9",
+        "google/cloud-translate": "^1.17",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
